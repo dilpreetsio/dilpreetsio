@@ -7,5 +7,3 @@ I'm currently working on: <br/>
 
 
 ![image](https://img.shields.io/badge/dilpreetsio-000000?style=for-the-badge&logo=x&logoColor=white)
-
-![GIF](https://media.giphy.com/media/H88OyTTbvEAdnrZHN2/giphy.gif)
