@@ -1,5 +1,5 @@
 # Hi, 👋 I'm Dilpreet
-I'm a maker who loves building cool tools. <br> <br>
+A software developer, building cool things. <br> <br>
 I'm currently working on: <br/>
 [Wowshot](https://wowshot.co): Create beautiful product videos <br/>
 [Superdesigner](https://superdesigner.co): Create designs in a few clicks <br/>
